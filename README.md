@@ -1,3 +1,4 @@
 Kaggle House Price Prediction
 ==============================
-School group project is to participate in the [Kaggle House Price Prediction competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
+Work of a school group project.\
+Students need to participate in the [Kaggle House Price Prediction competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques). Sumite codes, final rank and score to teacher. Give a presentation.
