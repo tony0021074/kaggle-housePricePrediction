@@ -1,4 +1,4 @@
-Kaggle House Price Prediction
+Kaggle House Price Prediction (School group project)
 ==============================
 Work of a school group project.
 
